@@ -1,1 +1,1 @@
-# user_story_manager
+# Minimalistic web application to create/edit user stories.
